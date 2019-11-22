@@ -1,0 +1,7 @@
+20	156	1158	cubane
+12	84	62	ethane
+9	57	422	methane
+30	246	1828	octane
+21	165	1226	pentane
+15	111	825	propane
+107	819	6081	total
